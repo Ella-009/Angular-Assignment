@@ -1,0 +1,14 @@
+.container {
+    border-style: solid;
+    border-color: #22B04C;
+    border-radius: 20px / 20px; 
+    padding: 0.5%; 
+    width: 25%;
+  } 
+
+  .text {
+    color: #22B04C; 
+    font-weight: bold;
+    font-size: 20px; 
+    margin-left: 5%; 
+  }

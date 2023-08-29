@@ -1,0 +1,16 @@
+.container {
+    border-style: solid;
+    border-color: #00A2E8;
+    padding: 0.5%; 
+    margin-left: 2%; 
+    margin-top: 2%;
+    width: 95%;
+    height: 200px;
+  } 
+
+  .text {
+    color: #00A2E8; 
+    font-weight: bold;
+    font-size: 18px; 
+    margin-left: 5%; 
+  }
